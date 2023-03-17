@@ -1,6 +1,6 @@
 # noeliapsm.github.io
 
-esto es bacan
+Te apuesto una manzana a que estás leyendo esto
 
 ## ojito 
 
