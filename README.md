@@ -1,7 +1,9 @@
 # noeliapsm.github.io
 
-Te apuesto una manzana a que estás leyendo esto
+MI PRIMERA PÁGINA WEB
 
-## ojito 
+## NOElIA 
 
 https://www.arduino.cc/
+
+@todos los derechos reservados
